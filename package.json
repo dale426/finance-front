@@ -1,0 +1,14 @@
+{
+  "name": "finance-front",
+  "version": "1.0.0",
+  "private": true,
+  "description": "金融前端博客",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.3",
+    "vuepress-plugin-yuque": "^0.6.0"
+  }
+}
